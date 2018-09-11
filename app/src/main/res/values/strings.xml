@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="Hallo_World">Hello World</string>
+    <string name="hallo_world_test">Hallo World Test</string>
+</resources>
